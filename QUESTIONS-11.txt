@@ -1,0 +1,21 @@
+CS 21 Lab 11
+
+Name:
+Your User Name:
+
+
+Lab Questionnaire
+
+
+Approximately how many hours did you take to complete this lab?
+Provide your answer as a single integer on the line below.
+
+50
+
+How difficult did you find this lab?
+(1-5, with 5 being very difficult and 1 being very easy)
+5
+
+
+Describe the biggest challenge you faced on this lab.
+writing each class correctly so that it works inside the function
